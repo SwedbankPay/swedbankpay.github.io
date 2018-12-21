@@ -1,11 +1,11 @@
 # payex.github.io
 
-This is the repository for [PayEx on GitHub][2]. It is run as a [Jekyll][2]
+This is the repository for [PayEx on GitHub][1]. It is run as a [Jekyll][2]
 website on [GitHub Pages][3].
 
 ## Usage
 
-To view this website, browse to [payex.github.io][2]. If you'd like to host it
+To view this website, browse to [payex.github.io][1]. If you'd like to host it
 locally on your computer, you need to do the following:
 
 1. [Clone this repository][4].
@@ -17,7 +17,6 @@ locally on your computer, you need to do the following:
 5. Run `bundle exec jekyll serve` to start the website.
 6. Open `http://localhost:4000` in a browser.
 
-
 ## Contributing
 
 Bug reports and pull requests are welcome on [GitHub][8]. This project is
@@ -28,8 +27,6 @@ are expected to adhere to the [Contributor Covenant][9] code of conduct.
 
 This website is available as open source under the terms of the
 [MIT License][10].
-
-
 
 [1]: https://payex.github.io
 [2]: https://jekyllrb.com/
