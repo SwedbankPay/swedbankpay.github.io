@@ -21,12 +21,13 @@ locally on your computer, you need to do the following:
 
 Bug reports and pull requests are welcome on [GitHub][8]. This project is
 intended to be a safe, welcoming space for collaboration, and contributors
-are expected to adhere to the [Contributor Covenant][9] code of conduct.
+are expected to adhere to the [Contributor Covenant][9] code of conduct as
+well as [PayEx Open Source Development Guidelines][10].
 
 ## License
 
 This website is available as open source under the terms of the
-[MIT License][10].
+[MIT License][11].
 
 [1]: https://payex.github.io
 [2]: https://jekyllrb.com/
@@ -37,4 +38,5 @@ This website is available as open source under the terms of the
 [7]: https://bundler.io/
 [8]: https://github.com/PayEx/payex.github.io/
 [9]: http://contributor-covenant.org
-[10]: https://opensource.org/licenses/MIT
+[10]: https://developer.payex.com/xwiki/wiki/developer/view/Main/guidelines/open-source-development-guidelines/
+[11]: https://opensource.org/licenses/MIT

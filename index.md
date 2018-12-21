@@ -24,6 +24,9 @@ TODO: Figure how to retrieve repository.topics for all repositories and use it t
 {% assign archived_repositories = site.github.public_repositories | where: 'archived', true %}
 {% assign excluded = page.legacy | concat: page.libraries | concat: page.active_modules %}
 
+Here you will find PayEx' open source repositories. They should all be written according to
+[PayEx Open Source Development Guidelines][1].
+
 ## Modules
 
 Actively maintained modules, plugins and extensions for web shop platforms such as WooCommerce and Magento.
@@ -71,3 +74,5 @@ These repostories are archived and no longer maintained by PayEx.
 {% for repository in archived_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }}): {{ repository.description }}
 {% endfor %}
+
+[1]: https://developer.payex.com/xwiki/wiki/developer/view/Main/guidelines/open-source-development-guidelines/
