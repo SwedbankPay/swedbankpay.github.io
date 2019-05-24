@@ -1,8 +1,9 @@
 ---
 title: PayEx Open Source Repositories
 active_modules:
-- PayEx.Checkout.WooCommerce
-- PayEx.Psp.WooCommerce
+- payex-woocommerce-checkout
+- payex-woocommerce-payments
+- payex-magento2-checkout
 legacy:
 - PayEx.Magento
 - PayEx.Magento2
@@ -13,7 +14,7 @@ legacy:
 - django-payex
 - pypayex
 libraries:
-- PayEx.Ecommerce.Php
+- payex-sdk-php
 ---
 
 {% comment %}
