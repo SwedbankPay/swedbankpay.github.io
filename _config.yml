@@ -1,4 +1,5 @@
 repository: PayEx/payex.github.io
 remote_theme: PayEx/payex-design-guide-jekyll-theme
+exclude: ["Gemfile*", "Rakefile"]
 plugins:
   - "jekyll-github-metadata"
