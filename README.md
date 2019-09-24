@@ -1,11 +1,11 @@
-# payex.github.io
+# swedbankpay.github.io
 
-This is the repository for [PayEx on GitHub][1]. It is run as a [Jekyll][2]
+This is the repository for [Swedbank Pay on GitHub][1]. It is run as a [Jekyll][2]
 website on [GitHub Pages][3].
 
 ## Usage
 
-To view this website, browse to [payex.github.io][1]. If you'd like to host it
+To view this website, browse to [swedbankpay.github.io][1]. If you'd like to host it
 locally on your computer, you need to do the following:
 
 1. [Clone this repository][4].
@@ -29,14 +29,14 @@ well as [PayEx Open Source Development Guidelines][10].
 This website is available as open source under the terms of the
 [MIT License][11].
 
-[1]: https://payex.github.io
+[1]: https://swedbankpay.github.io
 [2]: https://jekyllrb.com/
 [3]: https://pages.github.com/
 [4]: https://help.github.com/articles/cloning-a-repository/
 [5]: https://www.ruby-lang.org/en/
 [6]: https://rubygems.org/
 [7]: https://bundler.io/
-[8]: https://github.com/PayEx/payex.github.io/
+[8]: https://github.com/SwedbankPay/swedbankpay.github.io/
 [9]: http://contributor-covenant.org
 [10]: https://developer.payex.com/xwiki/wiki/developer/view/Main/guidelines/open-source-development-guidelines/
 [11]: https://opensource.org/licenses/MIT
