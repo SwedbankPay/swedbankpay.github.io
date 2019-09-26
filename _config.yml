@@ -3,3 +3,9 @@ remote_theme: SwedbankPay/swedbank-pay-design-guide-jekyll-theme
 exclude: ["Gemfile*", "Rakefile"]
 plugins:
   - "jekyll-github-metadata"
+defaults:
+  - values:
+      layout: default
+      design_guide:
+        base_url: https://design.swedbankpay.com
+        version_url: https://design.swedbankpay.com/v/4.1.0
