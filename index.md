@@ -17,7 +17,7 @@ written according to [PayEx Open Source Development Guidelines][1].
 
 ## Libraries and SDKs
 
-Actively maintained libraries and SDKs for Swedbank Pay' API platform.
+Actively maintained libraries and SDKs for Swedbank Pay's API platform.
 
 {% for repository in active_repositories %}
   {% if page.libraries contains repository.name %}
