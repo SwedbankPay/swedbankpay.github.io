@@ -9,15 +9,15 @@ pull_request_rules:
   - name: Automatic merge on approval
     conditions:
       - author~=^dependabot(|-preview)\[bot\]$
+      - '#commits-behind=0' # Only merge up to date pull requests
+      - check-success=build
     actions:
       merge:
-        method: merge
-        strict: smart
 
   - name: Thank contributor
     conditions:
       - merged
-      - -author~=^dependabot(|-preview)\[bot\]$
+      - -author~=^.*\[bot\]$
     actions:
       comment:
         message: "Thank you @{{author}} for your contribution!"
